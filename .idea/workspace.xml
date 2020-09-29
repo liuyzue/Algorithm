@@ -29,7 +29,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3898e988-72c1-4140-9308-a971192dac80" name="Default Changelist" comment="" />
+    <list default="true" id="3898e988-72c1-4140-9308-a971192dac80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leecode/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leecode/MainTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +88,7 @@
       <recent name="com.datastruct.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertSort">
+  <component name="RunManager" selected="JUnit.MainTest.testRemoveDuplicatesFromSortedArray">
     <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sort.InsertSort" />
       <module name="Algorithm" />
@@ -125,22 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.testFibonacci" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.leecode" />
-      <option name="MAIN_CLASS_NAME" value="com.leecode.MainTest" />
-      <option name="METHOD_NAME" value="testFibonacci" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainTest.testKthSymbolGrammar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
@@ -152,6 +140,22 @@
       <option name="PACKAGE_NAME" value="com.leecode" />
       <option name="MAIN_CLASS_NAME" value="com.leecode.MainTest" />
       <option name="METHOD_NAME" value="testKthSymbolGrammar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testRemoveDuplicatesFromSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leecode" />
+      <option name="MAIN_CLASS_NAME" value="com.leecode.MainTest" />
+      <option name="METHOD_NAME" value="testRemoveDuplicatesFromSortedArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.testRemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.InsertSort" />
         <item itemvalue="JUnit.MainTest.testKthSymbolGrammar" />
         <item itemvalue="JUnit.MainTest.testTribonacciSequence" />
         <item itemvalue="JUnit.MainTest.testFac" />
-        <item itemvalue="JUnit.MainTest.testFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +212,9 @@
       <workItem from="1597671876927" duration="1433000" />
       <workItem from="1597710469500" duration="1438000" />
       <workItem from="1597712690964" duration="956000" />
-      <workItem from="1597713774944" duration="950000" />
+      <workItem from="1597713774944" duration="1294000" />
+      <workItem from="1601303500854" duration="2010000" />
+      <workItem from="1601338348340" duration="1662000" />
     </task>
     <servers />
   </component>
@@ -269,10 +275,6 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="448" y="206" key="#Notifications/62.0.1304.768@62.0.1304.768" timestamp="1597710771495" />
-    <state x="278" y="0" key="#Project_Structure" timestamp="1591757818700">
-      <screen x="69" y="0" width="1467" height="864" />
-    </state>
-    <state x="278" y="0" key="#Project_Structure/69.0.1467.864@69.0.1467.864" timestamp="1591757818700" />
     <state x="606" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1594545699428">
       <screen x="69" y="0" width="1467" height="864" />
     </state>
@@ -289,10 +291,10 @@
       <screen x="69" y="0" width="1467" height="864" />
     </state>
     <state x="948" y="140" key="#xdebugger.evaluate/69.0.1467.864@69.0.1467.864" timestamp="1595307883297" />
-    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1597713226470">
+    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1601339982248">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="312" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1597713226470" />
+    <state x="312" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1601339982248" />
     <state width="396" height="466" key="DebuggerActiveHint" timestamp="1595303490271">
       <screen x="69" y="0" width="1467" height="864" />
     </state>
@@ -306,49 +308,57 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="525" y="302" key="Github.CreateGistDialog/62.0.1304.768@62.0.1304.768" timestamp="1597710689004" />
-    <state x="584" y="281" width="494" height="287" key="Github.ShareDialog" timestamp="1597713507413">
+    <state x="584" y="281" width="494" height="287" key="Github.ShareDialog" timestamp="1597714783890">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="584" y="281" width="494" height="287" key="Github.ShareDialog/62.0.1304.768@62.0.1304.768" timestamp="1597713507413" />
-    <state x="518" y="79" key="Github.UntrackedFilesDialog" timestamp="1597711808581">
+    <state x="584" y="281" width="494" height="287" key="Github.ShareDialog/62.0.1304.768@62.0.1304.768" timestamp="1597714783890" />
+    <state x="518" y="79" key="Github.UntrackedFilesDialog" timestamp="1597714795922">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="518" y="79" key="Github.UntrackedFilesDialog/62.0.1304.768@62.0.1304.768" timestamp="1597711808581" />
-    <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1597714138042">
+    <state x="518" y="79" key="Github.UntrackedFilesDialog/62.0.1304.768@62.0.1304.768" timestamp="1597714795922" />
+    <state width="1244" height="188" key="GridCell.Tab.0.bottom" timestamp="1601339753267">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1597714138042" />
+    <state width="1260" height="242" key="GridCell.Tab.0.bottom/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
+    <state width="1244" height="188" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1601339753267" />
     <state width="1398" height="286" key="GridCell.Tab.0.bottom/69.0.1467.864@69.0.1467.864" timestamp="1596087906344" />
-    <state width="1261" height="192" key="GridCell.Tab.0.center" timestamp="1597714138042">
+    <state width="1244" height="188" key="GridCell.Tab.0.center" timestamp="1601339753267">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1597714138042" />
+    <state width="1260" height="242" key="GridCell.Tab.0.center/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
+    <state width="1244" height="188" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1601339753267" />
     <state width="1398" height="286" key="GridCell.Tab.0.center/69.0.1467.864@69.0.1467.864" timestamp="1596087906344" />
-    <state width="1261" height="192" key="GridCell.Tab.0.left" timestamp="1597714138042">
+    <state width="1244" height="188" key="GridCell.Tab.0.left" timestamp="1601339753267">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1597714138042" />
+    <state width="1260" height="242" key="GridCell.Tab.0.left/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
+    <state width="1244" height="188" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1601339753267" />
     <state width="1398" height="286" key="GridCell.Tab.0.left/69.0.1467.864@69.0.1467.864" timestamp="1596087906344" />
-    <state width="1261" height="192" key="GridCell.Tab.0.right" timestamp="1597714138042">
+    <state width="1244" height="188" key="GridCell.Tab.0.right" timestamp="1601339753267">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1597714138042" />
+    <state width="1260" height="242" key="GridCell.Tab.0.right/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
+    <state width="1244" height="188" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1601339753267" />
     <state width="1398" height="286" key="GridCell.Tab.0.right/69.0.1467.864@69.0.1467.864" timestamp="1596087906344" />
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1596087906345">
-      <screen x="69" y="0" width="1467" height="864" />
+    <state width="1260" height="242" key="GridCell.Tab.1.bottom" timestamp="1601305515458">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1260" height="242" key="GridCell.Tab.1.bottom/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515458" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom/69.0.1467.864@69.0.1467.864" timestamp="1596087906345" />
-    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1596087906344">
-      <screen x="69" y="0" width="1467" height="864" />
+    <state width="1260" height="242" key="GridCell.Tab.1.center" timestamp="1601305515457">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1260" height="242" key="GridCell.Tab.1.center/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
     <state width="1398" height="286" key="GridCell.Tab.1.center/69.0.1467.864@69.0.1467.864" timestamp="1596087906344" />
-    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1596087906344">
-      <screen x="69" y="0" width="1467" height="864" />
+    <state width="1260" height="242" key="GridCell.Tab.1.left" timestamp="1601305515457">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1260" height="242" key="GridCell.Tab.1.left/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
     <state width="1398" height="286" key="GridCell.Tab.1.left/69.0.1467.864@69.0.1467.864" timestamp="1596087906344" />
-    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1596087906344">
-      <screen x="69" y="0" width="1467" height="864" />
+    <state width="1260" height="242" key="GridCell.Tab.1.right" timestamp="1601305515458">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1260" height="242" key="GridCell.Tab.1.right/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515458" />
     <state width="1398" height="286" key="GridCell.Tab.1.right/69.0.1467.864@69.0.1467.864" timestamp="1596087906344" />
     <state x="294" y="118" key="IDE.errors.dialog" timestamp="1597710521477">
       <screen x="62" y="0" width="1304" height="768" />
@@ -363,10 +373,14 @@
     </state>
     <state x="174" y="53" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1597714560279" />
     <state x="312" y="108" key="SettingsEditor/69.0.1467.864@69.0.1467.864" timestamp="1594545123562" />
-    <state x="306" y="116" key="Vcs.Push.Dialog.v2" timestamp="1597712919425">
+    <state x="306" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601339997634">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="306" y="116" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1597712919425" />
+    <state x="306" y="116" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1601339997634" />
+    <state x="518" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597714916022">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="518" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1304.768@62.0.1304.768" timestamp="1597714916022" />
     <state x="347" y="160" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594544625019">
       <screen x="69" y="0" width="1467" height="864" />
     </state>

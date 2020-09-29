@@ -64,4 +64,11 @@ public class MainTest {
         System.out.println(kthSymbolGrammar.symbolGrammar(20, 4));
     }
 
+    @Test
+    public void testRemoveDuplicatesFromSortedArray(){
+        RemoveDuplicatesFromSortedArray array = new RemoveDuplicatesFromSortedArray();
+        int[] nums = {1,1,2};
+        System.out.println(array.removeDuplicates(nums));
+    }
+
 }
