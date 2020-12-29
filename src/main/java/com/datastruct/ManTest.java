@@ -3,6 +3,12 @@ package com.datastruct;
 import com.leecode.JosephusRing;
 import org.junit.Test;
 
+import java.time.Duration;
+import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
 
 /**
  * @author create by lyz
@@ -107,6 +113,25 @@ public class ManTest {
         dequeue.push(10);*/
 
         dequeue.travel();
+    }
+
+    @Test
+    public void test(){
+        Long num = 0L;
+        List<Integer> testList = new ArrayList<>();
+        for (int i = 0; i < 10000; i++){
+            testList.add(i);
+        }
+        Date start = new Date();
+        for (int i = 0; i < testList.size() ; i++){
+            num += testList.get(i);
+        }
+        /*for (Integer e : testList){
+            num += e;
+        }*/
+        Date end = new Date();
+
+        System.out.println(end.getTime() - start.getTime());
     }
 
 }

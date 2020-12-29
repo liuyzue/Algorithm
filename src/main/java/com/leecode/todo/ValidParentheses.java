@@ -1,5 +1,9 @@
 package com.leecode.todo;
 
+import com.datastruct.MyLinkStack;
+
+import java.util.Stack;
+
 /**
  * @author create by lyz
  * @version: v1.0
@@ -38,10 +42,44 @@ public class ValidParentheses {
      * 输入: "{[]}"
      * 输出: true
      */
-    public boolean valid(String par){
+    public static boolean valid(String s){
+        char[] chars = s.toCharArray();
+        Stack<Character> charStack = new Stack<>();
+        for(int i = 0; i < chars.length ; i++){
+            switch (chars[i]) {
+                case '('  :
+                case '['  :
+                case '{'  :
+                    charStack.push(chars[i]);
+                    break;
+                case ')' : {
+                    Character temp = charStack.pop();
+                    if (temp != '(') {
+                        return false;
+                    }
+                    break;
+                }
+                case '}' : {
+                    Character temp = charStack.pop();
+                    if (temp != '{') {
+                        return false;
+                    }
+                    break;
+                }
+                case ']' : {
+                    Character temp = charStack.pop();
+                    if (temp != '[') {
+                        return false;
+                    }
+                    break;
+                }
+            }
+        }
 
+        return true;
+    }
 
-
-        return false;
+    public static void main(String[] args) {
+        System.out.println(valid("{}}{}{}"));
     }
 }

@@ -71,4 +71,11 @@ public class MainTest {
         System.out.println(array.removeDuplicates(nums));
     }
 
+    @Test
+    public void testPoxXN(){
+        double d = 2;
+        double result = Poxxn.pox(d,10) ;
+        System.out.println(result);
+    }
+
 }

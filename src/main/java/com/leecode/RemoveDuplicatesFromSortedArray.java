@@ -17,6 +17,6 @@ public class RemoveDuplicatesFromSortedArray {
             System.out.print(nums[i]+"   ");
         }
 
-        return flag;
+        return flag+1;
     }
 }

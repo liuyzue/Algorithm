@@ -79,6 +79,9 @@ public class MyLinkList<T> {
 
     public T deleteTail() {
         T result = null;
+        if (size == 0){
+            return null;
+        }
         //只有一个节点，置为null
         if (size == 1) {
             result = head.value;
