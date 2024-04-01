@@ -2,8 +2,6 @@ package com.leecode;
 
 import org.junit.Test;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 
 /**
@@ -52,9 +50,9 @@ public class MainTest {
 
     @Test
     public void testTribonacciSequence(){
-        TribonacciSequence tribonacciSequence = new TribonacciSequence();
+        _1137TribonacciSequence a1137TribonacciSequence = new _1137TribonacciSequence();
         for (int i = 0;i < 39 ; i++) {
-            System.out.println("n="+i+" : "+tribonacciSequence.tribonacci(i));
+            System.out.println("n="+i+" : "+ a1137TribonacciSequence.tribonacci(i));
         }
     }
 

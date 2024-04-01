@@ -7,7 +7,7 @@ package com.leecode;
  * @date:2020/7/27
  * @time:15:07
  */
-public class TribonacciSequence {
+public class _1137TribonacciSequence {
 /**
  * The Tribonacci sequence Tn is defined as follows: 
  *
@@ -29,24 +29,25 @@ public class TribonacciSequence {
  * 0 <= n <= 37
  * The answer is guaranteed to fit within a 32-bit integer, ie. answer <= 2^31 - 1.
  */
-    static int[] data = new int[40];
 
     public int tribonacci(int n){
-        if (n>=0 && n <= 37){
-
-            if (n == 0){
-                return 0;
-            } else if (n < 3){
-                return 1;
-            }
-            if (data[n]>0){
-                return data[n];
-            }
-            int res = tribonacci(n-3) + tribonacci(n-2) + tribonacci(n-1);
-            data[n] = res;
-            return res;
+        if (n < 0 || n > 37) {
+            return 0;
         }
-        return 0;
+        int n0 = 0, n1 = 1, n2 = 1;
+        if (n == 0){
+            return n0;
+        } else if (n < 3){
+            return n1;
+        } else {
+            for (int i = 3; i <= n ; i++) {
+                int cache = n0 + n1 + n2;
+                n0 = n1;
+                n1 = n2;
+                n2 = cache;
+            }
+            return n2;
+        }
     }
 
 }
