@@ -1,3 +1,6 @@
 # Project exclude paths
-/target/
-/.idea/
+.idea/
+.idea/sonarlint/
+.idea/libraries/
+target/
+.idea/*
