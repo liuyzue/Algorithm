@@ -1,0 +1,5 @@
+
+Q
+java:S2696,"6Make the enclosing method "static" or remove this set.(Ãè üÿÿÿÿ
+E	java:S106Q"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(Ûï‡“ùÿÿÿÿ

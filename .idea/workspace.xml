@@ -3,374 +3,61 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3898e988-72c1-4140-9308-a971192dac80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/Poxxn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastruct/ManTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastruct/ManTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastruct/MyLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastruct/MyLinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leecode/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leecode/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leecode/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leecode/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leecode/todo/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leecode/todo/ValidParentheses.java" afterDir="false" />
+    <list default="true" id="51de5b01-3881-4c71-ab8f-af9240ffec47" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leecode/todo/MergeTwoSortedLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leecode/todo/ValidParentheses.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\repo" />
-        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="#JAVA_HOME" />
-    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
-  </component>
-  <component name="ProjectId" id="1d6uFBfZGZ0Oxq8YiZuzmaIyVP1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.datastruct.impl" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.ManTest.test">
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sort.InsertSort" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode.todo.ValidParentheses" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.todo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.testPoxXN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.leecode" />
-      <option name="MAIN_CLASS_NAME" value="com.leecode.MainTest" />
-      <option name="METHOD_NAME" value="testPoxXN" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.testRemoveDuplicatesFromSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.leecode" />
-      <option name="MAIN_CLASS_NAME" value="com.leecode.MainTest" />
-      <option name="METHOD_NAME" value="testRemoveDuplicatesFromSortedArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.datastruct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.datastruct" />
-      <option name="MAIN_CLASS_NAME" value="com.datastruct.ManTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ManTest.test" />
-        <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="JUnit.MainTest.testPoxXN" />
-        <item itemvalue="JUnit.MainTest.testRemoveDuplicatesFromSortedArray" />
-        <item itemvalue="Application.InsertSort" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\F\AppData\Roaming\Subversion</configuration>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="3898e988-72c1-4140-9308-a971192dac80" name="Default Changelist" comment="" />
-      <created>1591757757549</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1591757757549</updated>
-      <workItem from="1591757759097" duration="14286000" />
-      <workItem from="1593844439512" duration="5111000" />
-      <workItem from="1593914480315" duration="604000" />
-      <workItem from="1593960721167" duration="26076000" />
-      <workItem from="1594258716084" duration="56000" />
-      <workItem from="1594391102145" duration="12270000" />
-      <workItem from="1594469647429" duration="11696000" />
-      <workItem from="1594540070718" duration="913000" />
-      <workItem from="1594542193428" duration="15760000" />
-      <workItem from="1595299584763" duration="64915000" />
-      <workItem from="1595826450133" duration="19203000" />
-      <workItem from="1597671876927" duration="1433000" />
-      <workItem from="1597710469500" duration="1438000" />
-      <workItem from="1597712690964" duration="956000" />
-      <workItem from="1597713774944" duration="1294000" />
-      <workItem from="1601303500854" duration="2010000" />
-      <workItem from="1601338348340" duration="1734000" />
-      <workItem from="1601371711534" duration="844000" />
-      <workItem from="1604412694095" duration="1692000" />
-      <workItem from="1604449425310" duration="146000" />
-      <workItem from="1608095888890" duration="1060000" />
-    </task>
-    <task id="LOCAL-00001" summary="有序数组中原地去掉重复项">
-      <created>1601340064018</created>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1712712815013</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1601340064018</updated>
+      <updated>1712712815013</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="1">
-          <value>
-            <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="structure">
-                    <value>
-                      <list>
-                        <option value="dir:D:/L/cccccc/code/Algorithm/src/main/java/com/datastruct" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="有序数组中原地去掉重复项" />
-    <option name="LAST_COMMIT_MESSAGE" value="有序数组中原地去掉重复项" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1601340062777">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="312" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1601340062777" />
-    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1604414047196">
-      <screen x="70" y="0" width="1850" height="1080" />
-    </state>
-    <state width="444" height="466" key="DebuggerActiveHint/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414047196" />
-    <state width="1252" height="165" key="GridCell.Tab.0.bottom" timestamp="1608096958790">
-      <screen x="70" y="0" width="1296" height="768" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.bottom/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386696" />
-    <state width="1260" height="242" key="GridCell.Tab.0.bottom/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
-    <state width="1244" height="235" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1601372555795" />
-    <state width="1252" height="165" key="GridCell.Tab.0.bottom/70.0.1296.768@70.0.1296.768" timestamp="1608096958790" />
-    <state width="1252" height="165" key="GridCell.Tab.0.center" timestamp="1608096958790">
-      <screen x="70" y="0" width="1296" height="768" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.center/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386696" />
-    <state width="1260" height="242" key="GridCell.Tab.0.center/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
-    <state width="1244" height="235" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1601372555795" />
-    <state width="1252" height="165" key="GridCell.Tab.0.center/70.0.1296.768@70.0.1296.768" timestamp="1608096958790" />
-    <state width="1252" height="165" key="GridCell.Tab.0.left" timestamp="1608096958790">
-      <screen x="70" y="0" width="1296" height="768" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.left/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386695" />
-    <state width="1260" height="242" key="GridCell.Tab.0.left/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
-    <state width="1244" height="235" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1601372555795" />
-    <state width="1252" height="165" key="GridCell.Tab.0.left/70.0.1296.768@70.0.1296.768" timestamp="1608096958790" />
-    <state width="1252" height="165" key="GridCell.Tab.0.right" timestamp="1608096958790">
-      <screen x="70" y="0" width="1296" height="768" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.0.right/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386696" />
-    <state width="1260" height="242" key="GridCell.Tab.0.right/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
-    <state width="1244" height="235" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1601372555795" />
-    <state width="1252" height="165" key="GridCell.Tab.0.right/70.0.1296.768@70.0.1296.768" timestamp="1608096958790" />
-    <state width="1807" height="363" key="GridCell.Tab.1.bottom" timestamp="1604414386696">
-      <screen x="70" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.1.bottom/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386696" />
-    <state width="1260" height="242" key="GridCell.Tab.1.bottom/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515458" />
-    <state width="1244" height="235" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1601372555796" />
-    <state width="1807" height="363" key="GridCell.Tab.1.center" timestamp="1604414386696">
-      <screen x="70" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.1.center/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386696" />
-    <state width="1260" height="242" key="GridCell.Tab.1.center/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
-    <state width="1244" height="235" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1601372555795" />
-    <state width="1807" height="363" key="GridCell.Tab.1.left" timestamp="1604414386696">
-      <screen x="70" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.1.left/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386696" />
-    <state width="1260" height="242" key="GridCell.Tab.1.left/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515457" />
-    <state width="1244" height="235" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1601372555795" />
-    <state width="1807" height="363" key="GridCell.Tab.1.right" timestamp="1604414386696">
-      <screen x="70" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="363" key="GridCell.Tab.1.right/-1296.133.1296.768/70.0.1850.1080@70.0.1850.1080" timestamp="1604414386696" />
-    <state width="1260" height="242" key="GridCell.Tab.1.right/-1304.133.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1601305515458" />
-    <state width="1244" height="235" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1601372555795" />
-    <state x="306" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601340072440">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="306" y="116" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1601340072440" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/leecode/LongestCommonPrefix.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/leecode/Poxxn.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/leecode/todo/ValidParentheses.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo />
       </pinned-members>
     </pin-to-top-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$ManTest_testLinkList.ic" NAME="ManTest.testLinkList Coverage Results" MODIFIED="1595429032577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.datastruct.*</FILTER>
-    </SUITE>
   </component>
 </project>

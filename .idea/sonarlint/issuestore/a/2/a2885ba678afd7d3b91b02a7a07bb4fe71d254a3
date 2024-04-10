@@ -1,0 +1,12 @@
+
+w
+java:S3740""/Provide the parametrized type for this generic.(†±ÔÕÿÿÿÿÿ8ğ×Ìç1J$ea600e3f-a6a6-4ab8-aaf6-b8ce101d09dc
+w
+java:S3740B"/Provide the parametrized type for this generic.(†±ÔÕÿÿÿÿÿ8ğ×Ìç1J$ef82a42a-7e60-49ae-90b9-7c15e8be9d66
+ 	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(Ş¼íøıÿÿÿÿ8ñ×Ìç1J$b93cc89e-e0ea-45bb-a669-afb42a6a635f
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›Œ°ïıÿÿÿÿ8ò×Ìç1J$c2db3c7b-6c62-4669-a40d-1242b62276b8
+•
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷¸¶8ä×Ìç1J$a08d9995-5ad1-4028-b15d-0b646470ef5e
+r	java:S106e"+Replace this use of System.out by a logger.(ØÙéÚüÿÿÿÿ8è×Ìç1J$3b13f3e6-0f78-4da1-b629-cc37161b88ec
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8öœÙÌç1J$e446ab9b-ea70-4c7d-bcfa-7b2df63511ee
