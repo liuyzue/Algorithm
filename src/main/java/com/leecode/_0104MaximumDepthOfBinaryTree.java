@@ -16,7 +16,7 @@ package com.leecode;
  *     }
  * }
  */
-public class _104MaximumDepthOfBinaryTree {
+public class _0104MaximumDepthOfBinaryTree {
     public int maxDepth(TreeNode root) {
 
         if (root == null) {

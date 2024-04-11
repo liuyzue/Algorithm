@@ -1,11 +1,9 @@
 package com.leecode;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
-public class _003LengthOfLongestSubstring {
+public class _0003LengthOfLongestSubstring {
 
     public static int lengthOfLongestSubstring(String s) {
         int cur = 0,start = 0,max = 0;

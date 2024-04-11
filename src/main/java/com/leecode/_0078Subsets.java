@@ -3,7 +3,7 @@ package com.leecode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _078Subsets {
+public class _0078Subsets {
     public static List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         int length = nums.length;

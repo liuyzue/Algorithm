@@ -29,7 +29,7 @@ import java.util.Map;
  *
  * 1 <= n <= 45
  */
-public class _070ClimbingStairs {
+public class _0070ClimbingStairs {
 
     public static void main(String[] args) {
         long start = System.currentTimeMillis();

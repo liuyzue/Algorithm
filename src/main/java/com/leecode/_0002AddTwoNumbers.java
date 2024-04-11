@@ -11,7 +11,7 @@ package com.leecode;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-public class _002AddTwoNumbers {
+public class _0002AddTwoNumbers {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode r = new ListNode();

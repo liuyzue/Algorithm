@@ -1,6 +1,6 @@
 package com.leecode;
 
-public class _509FibonacciNumber {
+public class _0509FibonacciNumber {
 
     public int fib(int n) {
         if (n == 0) {

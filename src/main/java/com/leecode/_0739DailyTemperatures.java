@@ -2,7 +2,7 @@ package com.leecode;
 
 import java.util.Stack;
 
-public class _739DailyTemperatures {
+public class _0739DailyTemperatures {
     public static int[] dailyTemperatures(int[] temperatures) {
         Stack<Integer> stack = new Stack<>();
         int[] result = new int[temperatures.length];

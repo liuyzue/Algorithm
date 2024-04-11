@@ -1,6 +1,6 @@
 package com.leecode;
 
-public class _746MinCostClimbingStairs {
+public class _0746MinCostClimbingStairs {
 
     public static int minCostClimbingStairs(int[] cost) {
         if (cost.length < 2 || cost.length > 1000) {

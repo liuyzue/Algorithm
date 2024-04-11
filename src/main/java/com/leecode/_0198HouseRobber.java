@@ -1,7 +1,5 @@
 package com.leecode;
 
-import java.util.Arrays;
-
 /**
  * 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃的唯一制约因素就是相邻的房屋装有相互连通的防盗系统，如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警。
  *
@@ -28,7 +26,7 @@ import java.util.Arrays;
  * 1 <= nums.length <= 100
  * 0 <= nums[i] <= 400
  */
-public class _198HouseRobber {
+public class _0198HouseRobber {
 
     public static int rob(int[] nums) {
         int n = nums.length;
