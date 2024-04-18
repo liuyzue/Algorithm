@@ -1,0 +1,10 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(†±ÔÕÿÿÿÿÿ
+J
+java:S3740A"/Provide the parametrized type for this generic.(†±ÔÕÿÿÿÿÿ
+s	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(Þ¼íøýÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªš«áúÿÿÿÿ
+h
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ž÷¸¶
+E	java:S106d"+Replace this use of System.out by a logger.(ØÙéÚüÿÿÿÿ

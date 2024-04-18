@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…åÕã8È«ş¸ì1J$dc632962-1924-4926-9558-c022aef806e6
+É
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—òş“ıÿÿÿÿ8Î«ş¸ì1J$618393f8-df50-4e97-8d80-1fbf49003990
+º
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8Ñ«ş¸ì1J$49409f77-aa8d-429f-877e-c5465a8ad441
+¿
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ù¯ ûÿÿÿÿ8Ó«ş¸ì1J$6c9ad3c2-ab23-4514-9064-b56bca154509
+p	java:S108")Either remove or fill this block of code.(»Ï¾ıÿÿÿÿÿ8 ¤‹¹ì1J$91ef65f4-4bb6-4977-98b1-44dce89164ce
+¿
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ËÁ²şÿÿÿÿ8Ó«ş¸ì1J$fea1e3a2-d13c-441b-8e1e-f71e60cb349b
+k	java:S108")Either remove or fill this block of code.(Í¶Ãù8ÚŒ¹ì1J$f2fbcd68-315f-4a91-b0bb-3d96ae1f4ea0
