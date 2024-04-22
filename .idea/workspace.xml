@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de5b01-3881-4c71-ab8f-af9240ffec47" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0021MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0071SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0092ReverseBetweenⅡ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0125IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0138CopyRandomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0141HasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0377CombinationSum4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0383CanConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0392IsSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -69,6 +66,9 @@
     "Application._0169MajorityElement.executor": "Debug",
     "Application._0189Rotate.executor": "Run",
     "Application._0350Intersect.executor": "Run",
+    "Application._0377CombinationSum4.executor": "Run",
+    "Application._0383CanConstruct.executor": "Run",
+    "Application._0392IsSubsequence.executor": "Run",
     "Application._1702MaximumBinaryString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -82,33 +82,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._0092ReverseBetweenⅡ">
-    <configuration name="_0020IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0020IsValid" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_0071SimplifyPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0071SimplifyPath" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._0383CanConstruct">
     <configuration name="_0092ReverseBetweenⅡ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leecode._0092ReverseBetweenⅡ" />
       <module name="Algorithm" />
@@ -135,8 +109,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0135Candy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0135Candy" />
+    <configuration name="_0377CombinationSum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0377CombinationSum4" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_0383CanConstruct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0383CanConstruct" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_0392IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0392IsSubsequence" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._0383CanConstruct" />
+        <item itemvalue="Application._0392IsSubsequence" />
+        <item itemvalue="Application._0377CombinationSum4" />
         <item itemvalue="Application._0092ReverseBetweenⅡ" />
         <item itemvalue="Application._0125IsPalindrome" />
-        <item itemvalue="Application._0071SimplifyPath" />
-        <item itemvalue="Application._0020IsValid" />
-        <item itemvalue="Application._0135Candy" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +197,8 @@
       <workItem from="1713316370347" duration="14247000" />
       <workItem from="1713401141195" duration="7923000" />
       <workItem from="1713493230501" duration="12700000" />
+      <workItem from="1713513754561" duration="2422000" />
+      <workItem from="1713748135871" duration="18429000" />
     </task>
     <task id="LOCAL-00003" summary="1">
       <option name="closed" value="true" />
@@ -222,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713403007363</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <option name="closed" value="true" />
+      <created>1713513823640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713513823640</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
