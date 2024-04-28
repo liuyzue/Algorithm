@@ -248,3 +248,17 @@ a
 1src/main/java/com/leecode/_0392IsSubsequence.java,a\f\af43e6e27395a40df304af067eefc30f81789381
 `
 0src/main/java/com/leecode/_0383CanConstruct.java,7\d\7dfbc293a64bf46d130cd2f7a8a38844c12906c2
+`
+0src/main/java/com/leecode/_1052MaxSatisfied.java,a\c\ac997354f64a18d18707cc3a98cd82b356834a10
+`
+0src/main/java/com/leecode/_2385AmountOfTime.java,0\4\04c4a1af03171a00d76ce0df936d94d18f1626af
+^
+.src/main/java/com/leecode/_0100IsSameTree.java,4\a\4a1f1bbde0994fb6261f79c5062c3d86a196c674
+d
+4src/main/java/com/leecode/_2739DistanceTraveled.java,6\b\6b7a45cd85941f8a2055bc1ed2d1cc295e3a128c
+W
+'src/main/java/com/test/UserService.java,e\4\e42df335af6eb48338e11c69b706a2dd0a14c664
+P
+ src/main/java/com/test/Test.java,b\a\ba27fba51a6c2d6d6044d1309472c21660828c6d
+a
+1src/main/java/com/leecode/_1146SnapshotArray.java,3\8\38667df2767b0fff8e2c1ad12a1ed5b1141af865

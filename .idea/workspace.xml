@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de5b01-3881-4c71-ab8f-af9240ffec47" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0377CombinationSum4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0383CanConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0392IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0100IsSameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_1052MaxSatisfied.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_1146SnapshotArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2385AmountOfTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2739DistanceTraveled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -54,54 +58,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ReadFileNumberTest.executor": "Run",
-    "Application._0020IsValid.executor": "Run",
-    "Application._0071SimplifyPath.executor": "Run",
-    "Application._0092ReverseBetweenⅡ.executor": "Run",
-    "Application._0121MaxProfit.executor": "Run",
-    "Application._0125IsPalindrome.executor": "Run",
-    "Application._0135Candy.executor": "Run",
-    "Application._0169MajorityElement.executor": "Debug",
-    "Application._0189Rotate.executor": "Run",
-    "Application._0350Intersect.executor": "Run",
-    "Application._0377CombinationSum4.executor": "Run",
-    "Application._0383CanConstruct.executor": "Run",
-    "Application._0392IsSubsequence.executor": "Run",
-    "Application._1702MaximumBinaryString.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ReadFileNumberTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0020IsValid.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0071SimplifyPath.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0092ReverseBetweenⅡ.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0121MaxProfit.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0125IsPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0135Candy.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0169MajorityElement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._0189Rotate.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0350Intersect.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0377CombinationSum4.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0383CanConstruct.executor&quot;: &quot;Run&quot;,
+    &quot;Application._0392IsSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1052MaxSatisfied.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1702MaximumBinaryString.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application._0383CanConstruct">
-    <configuration name="_0092ReverseBetweenⅡ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0092ReverseBetweenⅡ" />
+}</component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_0125IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0125IsPalindrome" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,13 +141,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_1052MaxSatisfied" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._1052MaxSatisfied" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application._1052MaxSatisfied" />
         <item itemvalue="Application._0383CanConstruct" />
         <item itemvalue="Application._0392IsSubsequence" />
         <item itemvalue="Application._0377CombinationSum4" />
-        <item itemvalue="Application._0092ReverseBetweenⅡ" />
-        <item itemvalue="Application._0125IsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +204,12 @@
       <workItem from="1713401141195" duration="7923000" />
       <workItem from="1713493230501" duration="12700000" />
       <workItem from="1713513754561" duration="2422000" />
-      <workItem from="1713748135871" duration="18429000" />
+      <workItem from="1713748135871" duration="20305000" />
+      <workItem from="1713851868896" duration="6598000" />
+      <workItem from="1713946587205" duration="5080000" />
+      <workItem from="1714006045041" duration="1925000" />
+      <workItem from="1714014323298" duration="781000" />
+      <workItem from="1714092014855" duration="4266000" />
     </task>
     <task id="LOCAL-00003" summary="1">
       <option name="closed" value="true" />
@@ -232,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713513823640</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1">
+      <option name="closed" value="true" />
+      <created>1713779459876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713779459876</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
