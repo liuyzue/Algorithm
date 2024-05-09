@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de5b01-3881-4c71-ab8f-af9240ffec47" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0062UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0064MinPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0139WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0300LengthOfLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0322CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0740DeleteAndEarn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0005LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0045JumpⅡ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0055CanJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0274HIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2079WateringPlants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2105MinimumRefill.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -61,9 +61,12 @@
   "keyToString": {
     "Application.ReadFileNumberTest.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application._0005LongestPalindrome.executor": "Run",
     "Application._0020IsValid.executor": "Run",
+    "Application._0045JumpⅡ.executor": "Run",
+    "Application._0055CanJump.executor": "Run",
     "Application._0062UniquePaths.executor": "Run",
-    "Application._0064MinPathSum.executor": "Debug",
+    "Application._0064MinPathSum.executor": "Run",
     "Application._0071SimplifyPath.executor": "Run",
     "Application._0092ReverseBetweenⅡ.executor": "Run",
     "Application._0121MaxProfit.executor": "Run",
@@ -72,6 +75,7 @@
     "Application._0139WordBreak.executor": "Run",
     "Application._0169MajorityElement.executor": "Debug",
     "Application._0189Rotate.executor": "Run",
+    "Application._0274HIndex.executor": "Run",
     "Application._0300LengthOfLIS.executor": "Run",
     "Application._0322CoinChange.executor": "Run",
     "Application._0350Intersect.executor": "Run",
@@ -81,6 +85,8 @@
     "Application._0740DeleteAndEarn.executor": "Run",
     "Application._1052MaxSatisfied.executor": "Run",
     "Application._1702MaximumBinaryString.executor": "Run",
+    "Application._2079WateringPlants.executor": "Run",
+    "Application._2105MinimumRefill.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
@@ -94,9 +100,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._0064MinPathSum">
-    <configuration name="_0062UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0062UniquePaths" />
+  <component name="RunManager" selected="Application._2105MinimumRefill">
+    <configuration name="_0005LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0005LongestPalindrome" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0064MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0064MinPathSum" />
+    <configuration name="_0045JumpⅡ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0045JumpⅡ" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0300LengthOfLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0300LengthOfLIS" />
+    <configuration name="_0274HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0274HIndex" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0322CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0322CoinChange" />
+    <configuration name="_2079WateringPlants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._2079WateringPlants" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0740DeleteAndEarn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0740DeleteAndEarn" />
+    <configuration name="_2105MinimumRefill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._2105MinimumRefill" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -162,19 +168,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._0064MinPathSum" />
-        <item itemvalue="Application._0062UniquePaths" />
-        <item itemvalue="Application._0740DeleteAndEarn" />
-        <item itemvalue="Application._0300LengthOfLIS" />
-        <item itemvalue="Application._0322CoinChange" />
+        <item itemvalue="Application._2105MinimumRefill" />
+        <item itemvalue="Application._0274HIndex" />
+        <item itemvalue="Application._2079WateringPlants" />
+        <item itemvalue="Application._0005LongestPalindrome" />
+        <item itemvalue="Application._0045JumpⅡ" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -219,7 +225,11 @@
       <workItem from="1714267006952" duration="11640000" />
       <workItem from="1714353236487" duration="17553000" />
       <workItem from="1714440242058" duration="51000" />
-      <workItem from="1714440460325" duration="9760000" />
+      <workItem from="1714440460325" duration="15927000" />
+      <workItem from="1714959488035" duration="11245000" />
+      <workItem from="1715043180890" duration="5128000" />
+      <workItem from="1715129218971" duration="3981000" />
+      <workItem from="1715216352704" duration="11863000" />
     </task>
     <task id="LOCAL-00003" summary="1">
       <option name="closed" value="true" />
@@ -269,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714267227267</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1">
+      <option name="closed" value="true" />
+      <created>1714456091624</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714456091624</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
