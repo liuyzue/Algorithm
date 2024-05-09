@@ -1,2 +1,2 @@
 # Algorithm
-Data Struce and Algorithm with Leetcode
+Doing something is better
