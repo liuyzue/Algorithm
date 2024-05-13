@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de5b01-3881-4c71-ab8f-af9240ffec47" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0005LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0045JumpⅡ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0055CanJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0274HIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2079WateringPlants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2105MinimumRefill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0380RandomizedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2391GarbageCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2960CountTestedDevices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/ReadFileNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/ReadFileNumberTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,7 @@
     "Application._0322CoinChange.executor": "Run",
     "Application._0350Intersect.executor": "Run",
     "Application._0377CombinationSum4.executor": "Run",
+    "Application._0380RandomizedSet.executor": "Run",
     "Application._0383CanConstruct.executor": "Run",
     "Application._0392IsSubsequence.executor": "Run",
     "Application._0740DeleteAndEarn.executor": "Run",
@@ -87,6 +86,9 @@
     "Application._1702MaximumBinaryString.executor": "Run",
     "Application._2079WateringPlants.executor": "Run",
     "Application._2105MinimumRefill.executor": "Run",
+    "Application._2391GarbageCollection.executor": "Run",
+    "Application._2960CountTestedDevices.executor": "Run",
+    "Application._3136IsValid.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
@@ -100,48 +102,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._2105MinimumRefill">
-    <configuration name="_0005LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0005LongestPalindrome" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_0045JumpⅡ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0045JumpⅡ" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_0274HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._0274HIndex" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_2079WateringPlants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._2079WateringPlants" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._0380RandomizedSet">
+    <configuration name="_0380RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0380RandomizedSet" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -166,13 +134,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_2391GarbageCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._2391GarbageCollection" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2960CountTestedDevices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._2960CountTestedDevices" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3136IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._3136IsValid" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._0380RandomizedSet" />
+        <item itemvalue="Application._2391GarbageCollection" />
+        <item itemvalue="Application._2960CountTestedDevices" />
+        <item itemvalue="Application._3136IsValid" />
         <item itemvalue="Application._2105MinimumRefill" />
-        <item itemvalue="Application._0274HIndex" />
-        <item itemvalue="Application._2079WateringPlants" />
-        <item itemvalue="Application._0005LongestPalindrome" />
-        <item itemvalue="Application._0045JumpⅡ" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +236,11 @@
       <workItem from="1714959488035" duration="11245000" />
       <workItem from="1715043180890" duration="5128000" />
       <workItem from="1715129218971" duration="3981000" />
-      <workItem from="1715216352704" duration="11863000" />
+      <workItem from="1715216352704" duration="20899000" />
+      <workItem from="1715303529099" duration="501000" />
+      <workItem from="1715331988458" duration="1179000" />
+      <workItem from="1715393276327" duration="5089000" />
+      <workItem from="1715562551755" duration="4550000" />
     </task>
     <task id="LOCAL-00003" summary="1">
       <option name="closed" value="true" />
@@ -287,17 +298,45 @@
       <option name="project" value="LOCAL" />
       <updated>1714456091624</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1">
+      <option name="closed" value="true" />
+      <created>1715234007333</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715234007333</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leecode/_0380RandomizedSet.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo />
