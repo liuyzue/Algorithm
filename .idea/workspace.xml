@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de5b01-3881-4c71-ab8f-af9240ffec47" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0380RandomizedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2391GarbageCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2960CountTestedDevices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_0238ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leecode/_2244MinimumRounds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -73,12 +72,13 @@
     "Application._0139WordBreak.executor": "Run",
     "Application._0169MajorityElement.executor": "Debug",
     "Application._0189Rotate.executor": "Run",
+    "Application._0238ProductExceptSelf.executor": "Run",
     "Application._0274HIndex.executor": "Run",
     "Application._0300LengthOfLIS.executor": "Run",
     "Application._0322CoinChange.executor": "Run",
     "Application._0350Intersect.executor": "Run",
     "Application._0377CombinationSum4.executor": "Run",
-    "Application._0380RandomizedSet.executor": "Run",
+    "Application._0380RandomizedSet.executor": "Debug",
     "Application._0383CanConstruct.executor": "Run",
     "Application._0392IsSubsequence.executor": "Run",
     "Application._0740DeleteAndEarn.executor": "Run",
@@ -86,6 +86,7 @@
     "Application._1702MaximumBinaryString.executor": "Run",
     "Application._2079WateringPlants.executor": "Run",
     "Application._2105MinimumRefill.executor": "Run",
+    "Application._2244MinimumRounds.executor": "Run",
     "Application._2391GarbageCollection.executor": "Run",
     "Application._2960CountTestedDevices.executor": "Run",
     "Application._3136IsValid.executor": "Debug",
@@ -107,7 +108,20 @@
       <recent name="com.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._0380RandomizedSet">
+  <component name="RunManager" selected="Application._0238ProductExceptSelf">
+    <configuration name="_0238ProductExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._0238ProductExceptSelf" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_0380RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leecode._0380RandomizedSet" />
       <module name="Algorithm" />
@@ -121,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2105MinimumRefill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._2105MinimumRefill" />
+    <configuration name="_2244MinimumRounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode._2244MinimumRounds" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -160,26 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3136IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode._3136IsValid" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._0238ProductExceptSelf" />
+        <item itemvalue="Application._2244MinimumRounds" />
         <item itemvalue="Application._0380RandomizedSet" />
         <item itemvalue="Application._2391GarbageCollection" />
         <item itemvalue="Application._2960CountTestedDevices" />
-        <item itemvalue="Application._3136IsValid" />
-        <item itemvalue="Application._2105MinimumRefill" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +241,9 @@
       <workItem from="1715303529099" duration="501000" />
       <workItem from="1715331988458" duration="1179000" />
       <workItem from="1715393276327" duration="5089000" />
-      <workItem from="1715562551755" duration="4550000" />
+      <workItem from="1715562551755" duration="5863000" />
+      <workItem from="1715649696887" duration="4528000" />
+      <workItem from="1715735987363" duration="2639000" />
     </task>
     <task id="LOCAL-00003" summary="1">
       <option name="closed" value="true" />
@@ -306,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715234007333</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1">
+      <option name="closed" value="true" />
+      <created>1715583304769</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715583304769</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,8 +343,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/leecode/_0380RandomizedSet.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="2" />
+          <line>47</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
