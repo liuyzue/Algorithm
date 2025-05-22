@@ -38,4 +38,18 @@ public class _0139WordBreak {
         _0139WordBreak wordBreak = new _0139WordBreak();
         System.out.println(wordBreak.wordBreak1("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab", wordDict));
     }
+
+    public boolean wordBreak2(String s, List<String> wordDict) {
+        boolean[] dp = new boolean[s.length() + 1];
+        dp[0] = true;
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i + 1; j <= s.length(); j++) {
+                String sub = s.substring(i, j);
+                if (dp[i] && wordDict.contains(sub)) {
+                    dp[j] = true;
+                }
+            }
+        }
+        return dp[s.length()];
+    }
 }
